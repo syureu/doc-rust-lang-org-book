@@ -10,6 +10,6 @@ fn main() {
 
     println!("The value of x is: {x}");
 
-    let spaces = "   ";
-    let spaces = spaces.len();
+    let mut spaces = "   ";
+    spaces = spaces.len();
 }
